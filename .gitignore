@@ -1,0 +1,6 @@
+.DS_Store
+/rebuild2.sh
+/output/siminfo.py
+/output/wor*
+/output/Sibernetic_*
+.github/*
