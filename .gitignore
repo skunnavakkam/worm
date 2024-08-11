@@ -4,3 +4,5 @@
 /output/wor*
 /output/Sibernetic_*
 .github/*
+fs/*
+raw_data/*
